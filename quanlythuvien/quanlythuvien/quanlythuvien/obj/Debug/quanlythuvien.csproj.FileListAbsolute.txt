@@ -1,0 +1,20 @@
+C:\Users\Admin\source\repos\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.LoginForm.resources
+C:\Users\Admin\source\repos\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.Properties.Resources.resources
+C:\Users\Admin\source\repos\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.csproj.CoreCompileInputs.cache
+C:\Users\PV\Documents\Zalo Received Files\quanlythuvien\quanlythuvien\bin\Debug\quanlythuvien.exe.config
+C:\Users\PV\Documents\Zalo Received Files\quanlythuvien\quanlythuvien\bin\Debug\quanlythuvien.exe
+C:\Users\PV\Documents\Zalo Received Files\quanlythuvien\quanlythuvien\bin\Debug\quanlythuvien.pdb
+C:\Users\PV\Documents\Zalo Received Files\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.csprojAssemblyReference.cache
+C:\Users\PV\Documents\Zalo Received Files\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.Properties.Resources.resources
+C:\Users\PV\Documents\Zalo Received Files\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.csproj.GenerateResource.cache
+C:\Users\PV\Documents\Zalo Received Files\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.csproj.CoreCompileInputs.cache
+C:\Users\PV\Documents\Zalo Received Files\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.exe
+C:\Users\PV\Documents\Zalo Received Files\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.pdb
+C:\Users\PV\Documents\Zalo Received Files\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.frmQuanLyDocGia.resources
+C:\Users\PV\Documents\Zalo Received Files\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.frmQuanLySach.resources
+C:\Users\PV\Documents\Zalo Received Files\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.frmQuanLyMuonTra.resources
+C:\Users\PV\Documents\Zalo Received Files\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.frmQuanLyTacGia.resources
+C:\Users\PV\Documents\Zalo Received Files\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.MainMenu.resources
+C:\Users\PV\Documents\Zalo Received Files\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.Login.resources
